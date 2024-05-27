@@ -1,5 +1,10 @@
 
-# Hi, I'm Said 👋🏿
+ <div align="center">
+ <h1> Hi, I'm Said 👋🏿 </h1>  
+ </div>
+
+<div align="center">
+ 
 
  💻  A Software Engineer on a journey from a non-technical background! <br/>
  🌱  I've explored various fields within the tech industry, but my passion lies in development. <br/>
@@ -7,10 +12,27 @@
  📖  Currently pursuing a  part-time MSc in Computer Science with a focus on Artificial Intelligence. <br/> 
  🙌🏿  Join me as I share my experiences and insights along the way! <br/> 
 
+ 
 
-# 📊 Github Stats
+ 🕸️ [Come check my website!](http://sk-codes.com/) 🕸️
 
-![Said's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKhail&show_icons=true&theme=transparent)
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKhail&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKhail&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+### 😂 Dev Meme
+
+<div align="center">
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
