@@ -14,7 +14,7 @@
 
  
 
- 🕸️ [Come check my website!](http://sk-codes.com/) 🕸️
+ 🕸️ <a href="http://sk-codes.com/" target="_blank">Come check my website!</a> 🕸️
 
 
 # 📊 GitHub Stats
