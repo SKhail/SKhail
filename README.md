@@ -24,18 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKhail&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-### 😂 Dev Meme
-
-<div align="center">
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-</div>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 #  💻 Tech Stack
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
