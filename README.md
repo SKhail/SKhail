@@ -4,11 +4,12 @@
  </div>
 
 <div align="center">
- 
 
- 💻  A Software Engineer on a journey from a non-technical background! <br/>
- 🌱  I've explored various fields within the tech industry, but my passion lies in development. <br/>
- 🎓  I've completed the EDX Front End Development course at the University of Birmingham <br/> 
+ ## 🚀 Software Engineer | MSc Computer Science (AI)  
+
+ 💻  Hi, I'm Said! I'm passionate about building **scalable and efficient software** solutions<br/>
+ 🌱  I've explored various fields within the tech industry, but **Software Engineering & AI** truly excite me. <br/>
+ 📌  Currently working on: Developing an AI-powered application set to launch in late 2025, integrating cutting-edge technologies <br/>
  🙌🏿  Join me as I share my experiences and insights along the way! <br/> 
 
  
@@ -20,7 +21,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SKhail&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKhail&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  
 </div>
 
 #  💻 Tech Stack
@@ -35,7 +36,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-	![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
